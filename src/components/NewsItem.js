@@ -1,10 +1,12 @@
 import React from 'react';
 
-const NewsItem = () => {
+
+const NewsItem = (story) => {
   
   return(
     <>
-    <h1>This is a NewsItem!</h1>
+      <h1>This is a News Item!!</h1>
+      
 
     </>
   )
