@@ -1,12 +1,13 @@
 import React from 'react';
 
 
-const NewsItem = (story) => {
+const NewsItem = ({story}) => {
   
   return(
     <>
-      <h1>This is a News Item!!</h1>
+      <a href={story.url} target="_blank"><h1>{story.title}</h1></a>
       
+   
 
     </>
   )
