@@ -15,4 +15,3 @@ function App() {
 export default App;
 
 
-// 'https://hacker-news.firebaseio.com/v0/beststories.json? print=pretty&orderBy="$key"&limitToFirst=30'
