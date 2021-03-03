@@ -1,9 +1,14 @@
 .App {
   text-align: center;
+  border: solid blue;
+  margin: 15px;
+  padding: 15px;
+  background-image:  linear-gradient(45deg, pink, aquamarine, orange);
+  max-width: 500px;
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 20vmin;
   pointer-events: none;
 }
 
